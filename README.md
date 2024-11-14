@@ -1,6 +1,5 @@
 ![Captura desde 2024-11-14 08-41-38](https://github.com/user-attachments/assets/b5ce1b59-587b-4cc5-9ed1-679f136997ae)
 
-
 # Flickr Search – Angular example application
 
 📖 This example is part of the **[free online book: Testing Angular – A Guide to Robust Angular Applications
